@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#0d22c5",
+      "url": "https://calendar.google.com/calendar/ical/danilo.anzile%40gmail.com/private-e34e9d7ed88339a49643f95e439dd2b3/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
