@@ -273,9 +273,14 @@ $Sx = \{-2, \frac{3}{2}\}$
 - Factorisation et résolution pour obtenir les solutions générales.
 
 #### Remarque importante
-- Formule générale pour les solutions d'une équation quadratique: $x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
+
+^ae68fe
+
+- Formule générale pour les solutions d'une équation quadratique: $x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$. ^580c5b
 - Ces solutions sont obtenues en considérant les points où le parabole coupe l'axe des abscisses.
 ### Discriminant et Résolution d'Équations Quadratiques
+
+^5d9de7
 
 Dans la formule quadratique $ax^2 + bx + c = 0$ où $a, b, c \in \mathbb{R}$ et $a \neq 0$:
 
