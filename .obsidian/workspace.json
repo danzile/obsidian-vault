@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md",
+                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4eb7f7489bf4391a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md"
+                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md"
               }
             }
           },
@@ -107,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md",
+                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md",
+                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +159,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b170e9b37d7f15a",
+  "active": "72c85cde44cd268f",
   "lastOpenFiles": [
     "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md",
+    "Personnel/JW/Annuario biblico.md",
+    "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
+    "Untitled.canvas",
     "config/assets/Pasted image 20230228080821.png",
     "Formation/EMF/TPI/Test Techno/Exécution de commandes SSH depuis l’interface web.md",
     "Personnel/JW/Discorsi",
@@ -169,7 +180,6 @@
     "Formation/EMF/TPI/Test Techno/Intégration de l’API Bitwarden.md",
     "Untitled 1.md",
     "config/assets",
-    "Untitled.md",
     "config",
     "Formation/EMF/TPI/RemoteServerHub.md",
     "Formation/Symfony",
