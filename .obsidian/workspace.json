@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
+                "file": "Formation/EMF/Maturité professionnelle/Math Fondamentale/Note de cours/Drawing 2023-10-02 10.15.37.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65d722d2bbab295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md"
+                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
+                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
+                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,11 +172,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72c85cde44cd268f",
+  "active": "e65d722d2bbab295",
   "lastOpenFiles": [
     "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md",
-    "Personnel/JW/Annuario biblico.md",
+    "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
+    "Personnel/Obsidian Helper.md",
+    "config/assets/shitapp-logo.png",
+    "Personnel/App/IOS-Android/Shitapp.md",
+    "Personnel/App/IOS-Android",
+    "Personnel/App/Untitled.md",
+    "Personnel/App",
+    "Formation/EMF/Maturité professionnelle/Math Fondamentale/Equations/Équation linéaires.md",
     "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
+    "Personnel/JW/Annuario biblico.md",
     "Untitled.canvas",
     "config/assets/Pasted image 20230228080821.png",
     "Formation/EMF/TPI/Test Techno/Exécution de commandes SSH depuis l’interface web.md",
@@ -175,7 +196,6 @@
     "images/media/image2.png.md",
     "images/media",
     "images",
-    "Personnel/Obsidian Helper.md",
     "Formation/TYPO3/Tools/MAJ.md",
     "Formation/EMF/TPI/Test Techno/Intégration de l’API Bitwarden.md",
     "Untitled 1.md",
@@ -183,8 +203,6 @@
     "config",
     "Formation/EMF/TPI/RemoteServerHub.md",
     "Formation/Symfony",
-    "Formation/EMF/TPI/Test Techno",
-    "Formation/TYPO3/Tools",
     "Formation/EMF/Dévélopment/3ème-année/A30.md",
     "Formation/EMF/Dévélopment/3ème-année/306 & 326.md",
     "Formation/EMF/Dévélopment/3ème-année/223.md",
@@ -196,17 +214,12 @@
     "Formation/EMF/TPI/Cahier des charges/media/image5.png",
     "Formation/EMF/TPI/Cahier des charges/media/image4.png",
     "Formation/EMF/TPI/Cahier des charges/media/image3.png",
-    "Formation/EMF/TPI/Cahier des charges/media/image2.png",
     "media/image2.png.md",
     "Calendar.md",
     "Formation/EMF/Dévélopment/1ere-année/104.md",
     "Formation/EMF/Dévélopment/1ere-année/100.md",
     "Formation/EMF/Système-Réseau/2ème-année/R21.md",
     "Formation/EMF/Système-Réseau/2ème-année/300.md",
-    "Formation/EMF/Système-Réseau/2ème-année/159.md",
-    "Formation/EMF/Système-Réseau/2ème-année/146.md",
-    "Formation/EMF/Système-Réseau/2ème-année/143.md",
-    "Formation/EMF/Système-Réseau/2ème-année/129.md",
-    "Formation/EMF/Système-Réseau/2ème-année/127.md"
+    "Formation/EMF/Système-Réseau/2ème-année/159.md"
   ]
 }
