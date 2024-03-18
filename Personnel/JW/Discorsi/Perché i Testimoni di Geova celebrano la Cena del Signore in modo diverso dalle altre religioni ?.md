@@ -34,3 +34,5 @@ Dunque il pane rappresenta il corpo perfetto di Gesu è il vino il suo sangue.
 
 Pero perche si usa il pane non lievitato e no un pane qualsiasi ? Il lievito nella Bibbia viene usato spesso come simbolo di peccato e corruzione. Perciò solo il pane senza lievito e senza altri additivi può essere un simbolo appropriato del corpo senza peccato di Cristo
 
+## Conclusione
+Per concludere, I Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni perche ci atteniamo strettamente a quello che ci dice la Bibbia che sia nel modo in qui Gesu ce lo comando di fare ma anche la frequenza. E ricordiamo che lo facciamo per gratitudine nel piu grande gesto d'amore che Geova e Gesu ci hanno mostrato.
