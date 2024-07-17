@@ -30,7 +30,7 @@ In Matteo 26:26-28 Gesu ci dice direttamente cosa questi emblemi rappresentino :
 
 >(26) Mentre continuavano a mangiare, Gesù prese un pane e, dopo aver pronunciato una preghiera, lo spezzò e, dandolo ai suoi discepoli, disse: “Prendete, mangiate. Questo rappresenta il mio corpo”. (27) E, preso un calice, rese grazie a Dio e lo diede loro, dicendo: “Bevetene tutti, (28) perché questo rappresenta il mio ‘sangue del patto’, che dev’essere versato a favore di molti per il perdono dei peccati.
 
-Dunque il pane rappresenta il corpo perfetto di Gesu è il vino il suo sangue.
+Dunque il pane non lievitato rappresenta il corpo perfetto di Gesu è il vino rosso genuino rappresenta sangue del patto.
 
 Pero perche si usa il pane non lievitato e no un pane qualsiasi ? Il lievito nella Bibbia viene usato spesso come simbolo di peccato e corruzione. Perciò solo il pane senza lievito e senza altri additivi può essere un simbolo appropriato del corpo senza peccato di Cristo
 

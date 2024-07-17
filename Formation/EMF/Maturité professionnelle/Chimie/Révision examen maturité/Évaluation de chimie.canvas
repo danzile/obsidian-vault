@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f3442f9b2c9649e3","x":-220,"y":400,"width":240,"height":60,"type":"text","text":"Calcul nombre de moles"},
+		{"id":"8270dc6466fa626d","x":250,"y":230,"width":330,"height":170,"type":"text","text":"Exemple : \n120 grammes de C_2H_6\n2 x 12.01 + 6 x 1.01 = 30.08 g/mol\n\nMol = 120g / 30.08 g/ mol = 3.99 mol\n"},
+		{"id":"5ae2dd1bcfc66d43","x":222,"y":620,"width":338,"height":100,"type":"text","text":"Calcul du volume en litres occupe :\nV = 22.4 mol/L / 3.99 mol = 5,61 L"},
+		{"id":"a2d0c1172c6b211d","x":-226,"y":820,"width":250,"height":60,"type":"text","text":"Calcul masse atomique moyenne"},
+		{"id":"133e5c40ff66970b","x":220,"y":838,"width":640,"height":902,"type":"text","text":"2-2-3 La masse atomique moyenne\n\nL'élément est un mélange de différents isotopes. La masse d'un nombre donné d'atomes d'un élément chimique dépend de l'abondance relative des isotopes présents dans l'échantillon considéré (abondance isotopique). La masse atomique moyenne est la moyenne pondérée du mélange naturel des isotopes d'un élément. On trouve le carbone-12 à 98,89% et le carbone-13 à 1,11% dans l'élément carbone.\n\nExemple :\n\n12C: masse.\n\nabondance: 98,89%\n\n13C: masse:\n\nabondance: 1,11%\n\n14C: masse: abondance: traces\n\nLa masse moyenne d'un atome de carbone se calcule comme suit:\n\ncontribution des atomes de 1C: 0,9889 x 12 u contribution des atomes de 13C: 0,0111 x 13 u contribution des atomes de 1C: négligeable\n\nmasse moyenne:\n\n= 11,8668\n\n=0,1443\n\n= 12,0111\n\nLa masse donnée dans le tableau périodique est la masse atomique moyenne des éléments, indiquée en unité de masse atomique u."}
+	],
+	"edges":[
+		{"id":"400344a2bf3229d8","fromNode":"f3442f9b2c9649e3","fromSide":"right","toNode":"8270dc6466fa626d","toSide":"left"},
+		{"id":"fbae83f6c0010fc6","fromNode":"8270dc6466fa626d","fromSide":"bottom","toNode":"5ae2dd1bcfc66d43","toSide":"top"},
+		{"id":"15a551d7ac4aaf19","fromNode":"a2d0c1172c6b211d","fromSide":"right","toNode":"133e5c40ff66970b","toSide":"left"}
+	]
+}

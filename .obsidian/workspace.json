@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3a08b3b2e130a980",
+        "id": "4029da6f12c8611c",
         "type": "tabs",
         "children": [
           {
-            "id": "5b170e9b37d7f15a",
+            "id": "481dd2777c783ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formation/EMF/Maturité professionnelle/Math Fondamentale/Note de cours/Drawing 2023-10-02 10.15.37.excalidraw.md",
+                "file": "Personnel/Dossier préparation math pour maturité.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e65d722d2bbab295",
+            "id": "aef38e36ed1605b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -90,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.50390243530273,
-    "collapsed": true
+    "width": 364.50390243530273
   },
   "right": {
     "id": "47f99f656c1f60f7",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md"
+                "file": "Personnel/Dossier préparation math pour maturité.md"
               }
             }
           },
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
+                "file": "Personnel/Dossier préparation math pour maturité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
+                "file": "Personnel/Dossier préparation math pour maturité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,40 +169,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e65d722d2bbab295",
+  "active": "72c85cde44cd268f",
   "lastOpenFiles": [
-    "Personnel/JW/Discorsi/Perché i cristiani sono organizzati ?.md",
-    "Personnel/JW/Discorsi/Perché i Testimoni di Geova celebrano la Cena del Signore in modo diverso dalle altre religioni ?.md",
-    "Personnel/Obsidian Helper.md",
+    "Formation/TYPO3/Tools/MAJ.md",
+    "Formation/TYPO3/Tools",
+    "Formation/TYPO3/Extension to build.md",
+    "Formation/TYPO3",
+    "Formation/EMF/Système-Réseau/2ème-année/R21.md",
+    "Formation/EMF/Système-Réseau/2ème-année/300.md",
+    "Formation/EMF/Système-Réseau/2ème-année/159.md",
+    "Formation/EMF/Système-Réseau/2ème-année/146.md",
+    "Formation/EMF/Système-Réseau/2ème-année/143.md",
+    "Formation/EMF/Système-Réseau/2ème-année/129.md",
+    "Formation/EMF/Système-Réseau/2ème-année/127.md",
+    "Formation/EMF/Système-Réseau/2ème-année/122.md",
+    "Formation/EMF/Système-Réseau/1ere-année/R10.md",
+    "Formation/EMF/Système-Réseau/1ere-année/305.md",
+    "Formation/EMF/Système-Réseau/1ere-année/304.md",
+    "Formation/EMF/Système-Réseau/1ere-année/123.md",
+    "Formation/EMF/Système-Réseau/1ere-année/117.md",
+    "Formation/EMF/Système-Réseau/2ème-année",
+    "Formation/EMF/Système-Réseau/1ere-année",
+    "Formation/EMF/Système-Réseau",
+    "Formation/EMF/TPI/Test Techno/Intégration de l’API Bitwarden.md",
+    "Formation/EMF/TPI/Test Techno/Exécution de commandes SSH depuis l’interface web.md",
+    "Formation/EMF/TPI/Test Techno/Affichage sur l’interface web de la réponse en SSH.md",
+    "Formation/EMF/TPI/Cahier des charges/Cahier des charges V1.md",
+    "Formation/EMF/TPI/Test Techno",
+    "Formation/EMF/TPI/RemoteServerHub.md",
+    "Formation/EMF/TPI/Cahier des charges",
+    "Formation/EMF/TPI",
+    "Formation/EMF/Dévélopment/2ème-année/226b.md",
+    "Formation/EMF/Dévélopment/2ème-année/B20.md",
+    "Formation/EMF/Dévélopment/2ème-année/W10.md",
+    "Formation/EMF/Dévélopment/2ème-année/226a.md",
+    "Formation/EMF/Dévélopment/2ème-année/307.md",
+    "Formation/EMF/Dévélopment/2ème-année/120.md",
+    "Formation/EMF/Maturité professionnelle/Math Fondamentale/Fonction",
+    "Formation/EMF/Maturité professionnelle/Math Fondamentale/Inequations",
+    "Formation/EMF/Maturité professionnelle/Chimie/Révision examen maturité/Évaluation de chimie.canvas",
     "config/assets/shitapp-logo.png",
-    "Personnel/App/IOS-Android/Shitapp.md",
-    "Personnel/App/IOS-Android",
-    "Personnel/App/Untitled.md",
-    "Personnel/App",
-    "Formation/EMF/Maturité professionnelle/Math Fondamentale/Equations/Équation linéaires.md",
-    "Personnel/JW/Discorsi/Come posso spiegare quello che dice la Bibbia sull’omosessualità ?.md",
-    "Personnel/JW/Annuario biblico.md",
     "Untitled.canvas",
     "config/assets/Pasted image 20230228080821.png",
-    "Formation/EMF/TPI/Test Techno/Exécution de commandes SSH depuis l’interface web.md",
-    "Personnel/JW/Discorsi",
-    "Personnel/JW",
-    "Formation/EMF/TPI/Test Techno/Affichage sur l’interface web de la réponse en SSH.md",
-    "config/canvas",
-    "Formation/EMF/TPI/Cahier des charges/Cahier des charges V1.md",
-    "images/media/image2.png.md",
-    "images/media",
-    "images",
-    "Formation/TYPO3/Tools/MAJ.md",
-    "Formation/EMF/TPI/Test Techno/Intégration de l’API Bitwarden.md",
-    "Untitled 1.md",
-    "config/assets",
-    "config",
-    "Formation/EMF/TPI/RemoteServerHub.md",
-    "Formation/Symfony",
-    "Formation/EMF/Dévélopment/3ème-année/A30.md",
-    "Formation/EMF/Dévélopment/3ème-année/306 & 326.md",
-    "Formation/EMF/Dévélopment/3ème-année/223.md",
     "images/media/image5.png",
     "images/media/image4.png",
     "images/media/image3.png",
@@ -213,13 +218,6 @@
     "images/media/image1.png",
     "Formation/EMF/TPI/Cahier des charges/media/image5.png",
     "Formation/EMF/TPI/Cahier des charges/media/image4.png",
-    "Formation/EMF/TPI/Cahier des charges/media/image3.png",
-    "media/image2.png.md",
-    "Calendar.md",
-    "Formation/EMF/Dévélopment/1ere-année/104.md",
-    "Formation/EMF/Dévélopment/1ere-année/100.md",
-    "Formation/EMF/Système-Réseau/2ème-année/R21.md",
-    "Formation/EMF/Système-Réseau/2ème-année/300.md",
-    "Formation/EMF/Système-Réseau/2ème-année/159.md"
+    "Formation/EMF/TPI/Cahier des charges/media/image3.png"
   ]
 }
